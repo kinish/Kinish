@@ -2,27 +2,57 @@
   <img src="https://pravovest.ru/bitrix/app/kinish.svg" width="300" />
 </h1>
 
-## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+<p align="center">
+  <b>Backend Engineer / Bitrix24 Wizard / Automation Lover</b><br/>
+  Пишу код, который экономит время и делает бизнес умнее 🧠
+</p>
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+---
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+## 👋 Привет! Меня зовут Kinish
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+Я — веб-разработчик, который любит автоматизировать всё, что можно автоматизировать.  
+Специализируюсь на интеграциях с Bitrix24, разработке приложений, красивых интерфейсах и надёжной серверной логике.
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+### 🚀 Что я делаю:
 
-+ a lot more ;)
+- 📦 Создаю **приложения для Bitrix24** — бизнес-процессы, CRM-виджеты, роботы
+- 🔄 Интегрирую сторонние сервисы: REST API, вебхуки, cURL-запросы с retry и логированием
+- 🌐 Делаю **современные интерфейсы** на Vue.js + Vuetify
+- 🧰 Поддерживаю продакшн-сервера на **CentOS + Apache**
+- 🗄 Работаю с базами данных **MySQL**, проектирую схемы и логи
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
+---
 
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+## 🧠 Навыки и технологии
+
+| Backend       | Frontend          | Tools & DevOps         | Базы данных     |
+| ------------- | ----------------- | ----------------------- | ---------------- |
+| PHP 8.0+      | Vue.js / Vuetify  | Git, cURL, systemd      | MySQL / MariaDB  |
+| Bitrix REST   | JavaScript (ES6+) | Apache / Nginx / CLI    | SQL-анализ       |
+| Автоматизация | HTML / Bootstrap  | Node.js / Puppeteer     | phpMyAdmin       |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kinishdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kinishdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinishdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 📫 Контакты
+
+- 📧 Email: `ls@pravovest.ru`
+- 🌐 Сайт: [pravovest.ru](https://pravovest.ru)
+- 🧠 Telegram: [@kinishdev](https://t.me/kinishdev)
+- 🔗 LinkedIn / GitHub Pages / Docs — скоро!
+
+---
+
+> ⚙️ Постоянно улучшаю свои проекты. Люблю чистый код, грамотную архитектуру и системный подход к разработке.
