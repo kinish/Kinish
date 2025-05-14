@@ -36,9 +36,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinish)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinish&show_icons=true&theme=dark)
 
 ---
 
