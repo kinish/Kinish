@@ -1,5 +1,5 @@
 <h1 align="center">
-  [<img src="" alt="Marton Lederer" />](https://pravovest.ru/bitrix/app/test.php)
+  <img src="https://pravovest.ru/bitrix/app/kinish-animated.svg" width="300" />
 </h1>
 
 ## Hey! 👋
