@@ -37,11 +37,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinishdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kinishdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinishdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinish)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
